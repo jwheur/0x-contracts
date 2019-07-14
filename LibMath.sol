@@ -228,3 +228,4 @@ contract LibMath is
         return isError;
     }
 }
+// compared

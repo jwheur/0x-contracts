@@ -82,3 +82,4 @@ contract SafeMath {
         return a < b ? a : b;
     }
 }
+// compared

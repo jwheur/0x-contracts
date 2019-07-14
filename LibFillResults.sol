@@ -28,3 +28,4 @@ contract LibFillResults is
         totalFillResults.takerFeePaid = safeAdd(totalFillResults.takerFeePaid, singleFillResults.takerFeePaid);
     }
 }
+// compared

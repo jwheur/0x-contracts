@@ -21,3 +21,4 @@ contract IAssetProxy is
         pure
         returns (bytes4);
 }
+// compared

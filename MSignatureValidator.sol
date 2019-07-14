@@ -50,3 +50,4 @@ contract MSignatureValidator is
         view
         returns (bool isValid);
 }
+// compared

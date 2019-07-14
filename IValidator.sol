@@ -14,3 +14,4 @@ contract IValidator {
         view
         returns (bool isValid);
 }
+// compared

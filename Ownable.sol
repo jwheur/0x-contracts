@@ -26,3 +26,4 @@ contract Ownable is
         }
     }
 }
+// compared
